@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varner14
-- 👀 I’m interested in study and improve my knowledge.
+- 👀 I’m interested improve my knowledge.
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me in linkedin https://www.linkedin.com/in/varner-cardoso.
 
