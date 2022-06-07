@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varner14
-- 👀 I’m interested improve my knowledge.
-- 🌱 I’m currently learning new things. :D 
+- 👀 I’m interested in improving my knowledge.
+- 🌱 I’m currently learning new things in javascript.. 🎓
 - 📫 How to reach me in linkedin https://www.linkedin.com/in/varner-cardoso.
 
 <!---
