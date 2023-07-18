@@ -10,7 +10,7 @@
 - SQL Server, MySQL, Oracle, Mongo
 - Agile/Scrum methodology
 
-Thank you for taking the time to read about my experience and skills. If you're interested in working with me, please feel free to reach out to me at https://www.linkedin.com/in/varner-cardoso/.
+Thank you for taking the time to read about my experience and skills.
 
 <!---
 varner14/varner14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
