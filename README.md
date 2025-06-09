@@ -3,7 +3,7 @@
 💻 Here are some of the key skills I bring to the table:
 
 - .NET Framework: 4 years of experience
-- Angular Framework: 5 years of experience
+- Angular Framework: 7 years of experience
 - C#, TypeScript, JavaScript
 - SQL Server, MySQL, Oracle, Mongo
 - Agile/Scrum methodology
