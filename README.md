@@ -1,5 +1,5 @@
 👋 Hello! I'm Varner, a Software Developer
-I specialize in .NET and Angular frameworks, bringing 4 years of experience with .NET and 7 years with Angular to the table. I've leveraged these technologies to build a variety of robust applications and systems.
+I specialize in .NET and Angular frameworks, bringing 7 years of experience in web development. I've leveraged these technologies to build a variety of robust applications and systems.
 
 My expertise extends to a range of programming languages and databases:
 
